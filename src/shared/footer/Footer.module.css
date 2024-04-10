@@ -1,0 +1,50 @@
+.footer__social-link {
+    width: 26px;
+    height: 26px;
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+    border-radius: 50%;
+    display: inline-flex;
+}
+.footer__social-link img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+.footer__payments {
+    display: flex;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
+}
+.footer__payments li {
+    display: inline-flex;
+    width: 42px;
+}
+.footer__apps {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.footer__app {
+    width: 134px;
+}
+.footer__app-link {
+    padding: 0;
+    display: flex;
+}
+.footer__apps  h3 {
+    font-size: 18px;
+    line-height: 31px;
+    margin-bottom: 12px;
+    color: #313131;
+    text-align: left;
+}
+.footer__title {
+    font-size: 18px;
+    line-height: 31px;
+    margin-bottom: 12px;
+    color: #313131;
+    text-align: left;
+}

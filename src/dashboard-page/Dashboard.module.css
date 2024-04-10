@@ -1,0 +1,15 @@
+.course-item {
+    flex-direction: column;
+}
+.course-item img {
+    max-width: 350px;
+}
+.course-item__footer {
+    background-color: transparent;
+}
+@media screen and (min-width: 992px){
+
+    .course-item {
+        flex-direction: row;
+    }
+}
